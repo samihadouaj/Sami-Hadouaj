@@ -3,11 +3,11 @@
 title: Sami Hadouaj
 
 # Name pronunciation (optional)
-name_pronunciation: Sami Hadouaj
+# name_pronunciation: Sami Hadouaj
 
 # Full name (for SEO)
-# first_name: Sami
-# last_name: Hadouaj
+first_name: Sami
+last_name: Hadouaj
 
 # # Status emoji
 # status:
