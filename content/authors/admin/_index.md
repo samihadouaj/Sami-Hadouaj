@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Sami Hadouaj
 
 # Name pronunciation (optional)
 name_pronunciation: Sami Hadouaj
@@ -9,9 +9,9 @@ name_pronunciation: Sami Hadouaj
 first_name: Sami
 last_name: Hadouaj
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
