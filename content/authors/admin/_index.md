@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'shadouaj@umich.edu'
+    url: shadouaj@umich.edu
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/SHadouaj
@@ -44,13 +44,13 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=yqkd6wkAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0004-3407-307X
 
 interests:
   - Databases
   - Machine Learning
   - Probabilistic Programming
-  
+
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: Master Computer Science
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: BSc Software Engineering
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
