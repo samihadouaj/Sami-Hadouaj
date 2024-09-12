@@ -52,8 +52,8 @@ interests:
   - Probabilistic Programming
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Candidate Computer Science
+    institution: University of Michigan
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -62,7 +62,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Master Computer Science
-    institution: Massachusetts Institute of Technology
+    institution: Tunisia Polytechnic School
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -73,7 +73,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Software Engineering
-    institution: Massachusetts Institute of Technology
+    institution: National Institute of Applied Science and Technology Tunisia
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
