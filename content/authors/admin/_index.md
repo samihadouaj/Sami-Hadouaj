@@ -183,5 +183,5 @@ awards:
 
 ## About Me
 A current PhD candidate in computer and information science. My research work explores the intersection of databases, machine learning, and statistical learning. The goal is to leverage database query language to express statistical models and perform statistical inference.
-I have a software engineering education as well as research experience in machine learning, systems, optimization, and more, as I am always willing to learn and evolve.
+I have a software engineering education as well as research experience in machine learning, systems, software optimization, parallel computing and more, as I am always willing to learn and evolve.
 I am pleased to have published in the prestigious SIGMOD 2024, and I am excited to contribute more in the future.
