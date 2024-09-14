@@ -35,10 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I work in the Database research lab under the supervision of professor [Niccolo Meneghetti](https://www-personal.umd.umich.edu/~niccolom/). Our work focuses on leveraging the idea of learning from query answers to perform probabilistic programming. This results in extensive research in different subjects in database theroy, machine learning and statistical inference. Our research aims to go beyond applying learning from query answers in probabilistic programming by enforcing fairness contraints.
-        <a href="https://example.com">Visit Example</a>
+        I work in the Database research lab under the supervision of professor
+        <a href="https://www-personal.umd.umich.edu/~niccolom/">Niccolo Meneghetti</a> Our work focuses on leveraging the idea of learning from query answers to perform probabilistic programming. This results in extensive research in different subjects in database theroy, machine learning and statistical inference. Our research aims to go beyond applying learning from query answers in probabilistic programming by enforcing fairness contraints.
 
-        
         Please reach out to collaborate 😃
     design:
       columns: '1'
