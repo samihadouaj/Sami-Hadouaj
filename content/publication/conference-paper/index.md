@@ -6,7 +6,7 @@ title: 'StarfishDB: A Query Execution Engine For Relational probabilistic Progra
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Ouael Ben Amara *
-  - <strong>Sami Hadouaj</strong> *
+  - __Sami Hadouaj__ *
   - Niccolo Meneghetti
 
 # Author notes (optional)
