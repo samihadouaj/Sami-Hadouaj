@@ -183,7 +183,9 @@ awards:
 
 ## About Me
 A current PhD candidate in <a href="https://rackham.umich.edu/">Rackham Graduate School</a> at the 
-<a href="https://umdearborn.edu/cecs/departments/computer-and-information-sciencehttps://umdearborn.edu/cecs/departments/computer-and-information-science">Department of Computer and Information Science</a> at <a href="https://umdearborn.edu/">the University of Michigan-Dearbornl</a>. 
-I work in the Database research lab under the supervision of professor <a href="https://www-personal.umd.umich.edu/~niccolom/">Niccolo Meneghetti</a>.
+<a href="https://umdearborn.edu/cecs/departments/computer-and-information-sciencehttps://umdearborn.edu/cecs/departments/computer-and-information-science">Department of Computer and Information Science</a> at 
+<a href="https://umdearborn.edu/">the University of Michigan-Dearborn</a>. 
+I work in the Database research lab under the supervision of professor
+ <a href="https://www-personal.umd.umich.edu/~niccolom/">Niccolo Meneghetti</a>.
 I have a software engineering education as well as research experience in machine learning, systems, software optimization, parallel computing and more, as I am always willing to learn and evolve.
 I am pleased to have published in the prestigious SIGMOD 2024, and I am excited to contribute more in the future.
