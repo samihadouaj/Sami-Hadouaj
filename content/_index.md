@@ -38,6 +38,7 @@ sections:
         I work in the Database research lab under the supervision of professor
         <a href="https://www-personal.umd.umich.edu/~niccolom/">Niccolo Meneghetti</a> Our work focuses on leveraging the idea of learning from query answers to perform probabilistic programming. This results in extensive research in different subjects in database theroy, machine learning and statistical inference. Our research aims to go beyond applying learning from query answers in probabilistic programming by enforcing fairness contraints.
 
+My research work explores the intersection of databases, machine learning, and statistical learning. The goal is to leverage database query language to express statistical models and perform statistical inference.
         Please reach out to collaborate 😃
     design:
       columns: '1'
