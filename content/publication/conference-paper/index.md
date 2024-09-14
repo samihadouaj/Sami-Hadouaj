@@ -6,7 +6,7 @@ title: 'StarfishDB: A Query Execution Engine For Relational probabilistic Progra
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Ouael Ben Amara *
-- admin *
+- Sami Hadouaj *
 - Niccolo Meneghetti
 
 # Author notes (optional)
@@ -26,8 +26,8 @@ publishDate: 'June 2024'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+# publication: In *Hugo Blox Builder Conference*
+# publication_short: In *ICW*
 
 abstract: We introduce StarfishDB, a query execution engine optimized for relational probabilistic programming. Our engine adopts the model of Gamma Probabilistic Databases, representing probabilistic programs as a collection of relational constraints, imposed against a generative stochastic process. We extend the model with the support for recursion, factorization and the ability to leverage just-in-time compilation techniques to speed up inference. We test our engine against a state-of-the-art sampler for Latent Dirichlet Allocation.
 
@@ -76,7 +76,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+<!-- 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -85,4 +85,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
