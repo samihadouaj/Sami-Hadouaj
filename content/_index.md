@@ -35,9 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I work in the Database research lab under the supervision of professor ([Niccolo meneghetti](https://www-personal.umd.umich.edu/~niccolom/)). Our work focuses on leveraging the idea of learning from query answers to perform probabilistic programming. This results in extensive research in different subjects in database theroy, machine learning and statistical inference. Our research aims to go beyond applying learning from query answers in probabilistic programming by enforcing fairness contraints.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
     design:
