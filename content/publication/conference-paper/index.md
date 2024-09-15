@@ -47,7 +47,7 @@ tags:
 #   url: http://example.org
 
 url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3654988'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
