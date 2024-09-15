@@ -1,7 +1,7 @@
 ---
-title: SIGMOD 2024
+title: Starfish DB paper presentation at SIGMOD 2024
 
-event: Starfish DB paper presentation at SIGMOD 2024
+event: SIGMOD 2024 Conference
 event_url: https://2024.sigmod.org/
 
 location: Santiago, Chile
@@ -17,7 +17,7 @@ summary: I had a talk in SIGMOD 2024 in which I presented our paper "StarfishDB 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-14T13:00:00Z'
+date: '2024-06-14T14:00:00Z'
 # date_end: '2024-06-14T15:00:00Z'
 all_day: false
 
