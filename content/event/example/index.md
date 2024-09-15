@@ -5,12 +5,12 @@ event: Starfish DB paper presentation at SIGMOD 2024
 event_url: https://2024.sigmod.org/
 
 location: Santiago, Chile
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: I had a talk in SIGMOD 2024 in which I presented our paper "StarfishDB a Query Execution Engine for Relational
 Probabilistic Programming" 
