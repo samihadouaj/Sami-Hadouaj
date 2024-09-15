@@ -1,16 +1,16 @@
 ---
-title: Example Talk
+title: SIGMOD 2024
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Starfish DB paper presentation at SIGMOD 2024
+event_url: https://2024.sigmod.org/
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Santiago, Chile
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
 summary: I had a talk in SIGMOD 2024 in which I presented our paper "StarfishDB a Query Execution Engine for Relational
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
@@ -18,7 +18,7 @@ summary: I had a talk in SIGMOD 2024 in which I presented our paper "StarfishDB 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-06-14T13:00:00Z'
-date_end: '2024-06-14T15:00:00Z'
+# date_end: '2024-06-14T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
