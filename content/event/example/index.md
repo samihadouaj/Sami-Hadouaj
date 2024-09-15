@@ -29,10 +29,10 @@ authors:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+# url_code: 'https://github.com'
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3654988'
+# url_slides: 'https://slideshare.net'
+# url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
