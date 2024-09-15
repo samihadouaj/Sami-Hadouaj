@@ -26,7 +26,6 @@ publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
-	@@ -41,10 +42,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
