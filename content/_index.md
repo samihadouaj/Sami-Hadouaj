@@ -86,7 +86,7 @@ sections:
       filters:
         folders: 
           - post
-        author: ""
+        author: "Sami"
         category: ""
         tag: ""
         exclude_featured: false
