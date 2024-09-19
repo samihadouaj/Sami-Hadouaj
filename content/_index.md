@@ -84,10 +84,11 @@ sections:
       count: 2
       # Filter on criteria
       filters:
-        folder: post
-        author: "Sami"
+        folders: 
+          - post
+        author: ""
         category: ""
-        tag: "rackham"
+        tag: ""
         exclude_featured: false
         exclude_future: false
         exclude_past: false
