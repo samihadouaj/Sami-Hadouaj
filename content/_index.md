@@ -84,7 +84,7 @@ sections:
       count: 2
       # Filter on criteria
       filters:
-        author: ""
+        author: "Sami"
         category: ""
         tag: "rackham"
         exclude_featured: false
