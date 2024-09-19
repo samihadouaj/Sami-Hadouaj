@@ -84,6 +84,7 @@ sections:
       count: 2
       # Filter on criteria
       filters:
+        folder: post
         author: "Sami"
         category: ""
         tag: "rackham"
