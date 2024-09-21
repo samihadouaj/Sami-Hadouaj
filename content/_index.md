@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research work explores the intersection of databases, machine learning, and statistical learning. The goal is to leverage database query language to express statistical models and perform statistical inference. 
+        My research work explores the intersection of databases, machine learning, and statistical learning. The goal is to leverage database query language to express statistical models and perform statistical Bayesian inference. 
         
         Please reach out to collaborate 😃
     design:
