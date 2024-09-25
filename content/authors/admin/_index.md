@@ -183,7 +183,7 @@ awards:
 
 ## About Me
 A current PhD candidate in <a href="https://rackham.umich.edu/">Rackham Graduate School</a> at the 
-<a href="https://umdearborn.edu/cecs/departments/computer-and-information-sciencehttps://umdearborn.edu/cecs/departments/computer-and-information-science">Department of Computer and Information Science</a> at 
+<a href="https://umdearborn.edu/cecs/departments/computer-and-information-science">Department of Computer and Information Science</a> at 
 <a href="https://umdearborn.edu/">the University of Michigan-Dearborn</a>. 
 I work in the Database research lab under the supervision of professor
  <a href="https://www-personal.umd.umich.edu/~niccolom/">Niccolo Meneghetti</a>.
