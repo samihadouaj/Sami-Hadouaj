@@ -25,7 +25,7 @@ role: PhD Candidate in Computer and Information Science
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Michigan Rackham Graduate School
-    url: https://openai.com/
+    url: https://rackham.umich.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
