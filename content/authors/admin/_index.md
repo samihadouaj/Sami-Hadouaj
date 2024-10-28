@@ -74,6 +74,8 @@ education:
 work:
   - position: Graduate Research Assistant
     company_name: University of Michigan-Dearborn
+    company_url: ''
+    company_logo: ''
     date_start: 2022-01-01
     date_end: Present
     summary: |2-
