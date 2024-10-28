@@ -1,13 +1,12 @@
 ---
 title: StarfishDB
-date: 2023-10-26
+date: 2024-06-11
 external_link: https://github.com/nmeneghetti2/starfishdb_sigmod2024_ari/tree/main
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Databases
+  - Probabilistic programming
+  - Research
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+Code for StarfishDB: a Query Execution Engine For Relational Probabilistic Programming
 <!--more-->
