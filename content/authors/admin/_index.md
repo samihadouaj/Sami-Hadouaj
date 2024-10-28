@@ -61,45 +61,45 @@ education:
       - Text mining and information retrieval
       - Algorithms analysis and design
 
-  - area: Master of Science in Computer Science
-    institution: Tunisia Polytechnic School
-    date_start: 2020-09-01
-    date_end: 2021-06-30
+#   - area: Master of Science in Computer Science
+#     institution: Tunisia Polytechnic School
+#     date_start: 2020-09-01
+#     date_end: 2021-06-30
 
-  - area: Bachelor in Software Engineering
-    institution: National Institute of Applied Science and Technology, Tunisia
-    date_start: 2016-09-01
-    date_end: 2021-06-30
+#   - area: Bachelor in Software Engineering
+#     institution: National Institute of Applied Science and Technology, Tunisia
+#     date_start: 2016-09-01
+#     date_end: 2021-06-30
 
-work:
-  - position: Graduate Research Assistant
-    company_name: University of Michigan-Dearborn
-    date_start: 2022-01-01
-    date_end: Present
-    summary: |2-
-      Responsibilities include:
-      - Developing a unified framework merging probabilistic programming and databases for efficient statistical inference using MCMC sampling.
-      - Building an optimized query engine in C++ leveraging Apache Arrow, JIT (ClangJIT), and parallel MCMC inference (OpenMP).
-      - Enhancing parallelization, optimizing inference algorithms, and resolving race conditions, resulting in an 8x system performance increase.
-      - Optimizing algorithms using performance monitoring tools, achieving a 50% performance increase with a collapsed variational inference algorithm.
+# work:
+#   - position: Graduate Research Assistant
+#     company_name: University of Michigan-Dearborn
+#     date_start: 2022-01-01
+#     date_end: Present
+#     summary: |2-
+#       Responsibilities include:
+#       - Developing a unified framework merging probabilistic programming and databases for efficient statistical inference using MCMC sampling.
+#       - Building an optimized query engine in C++ leveraging Apache Arrow, JIT (ClangJIT), and parallel MCMC inference (OpenMP).
+#       - Enhancing parallelization, optimizing inference algorithms, and resolving race conditions, resulting in an 8x system performance increase.
+#       - Optimizing algorithms using performance monitoring tools, achieving a 50% performance increase with a collapsed variational inference algorithm.
 
-  - position: Software Engineering Intern
-    company_name: Dearborn AI Research Center, University of Michigan-Dearborn
-    date_start: 2021-02-01
-    date_end: 2021-06-30
-    summary: |
-      Responsibilities included:
-      - Integrating AI into software engineering to reduce developer overhead and enhance productivity.
-      - Developing a chatbot to address GitHub and Jira issues, improving software quality metrics.
+#   - position: Software Engineering Intern
+#     company_name: Dearborn AI Research Center, University of Michigan-Dearborn
+#     date_start: 2021-02-01
+#     date_end: 2021-06-30
+#     summary: |
+#       Responsibilities included:
+#       - Integrating AI into software engineering to reduce developer overhead and enhance productivity.
+#       - Developing a chatbot to address GitHub and Jira issues, improving software quality metrics.
 
-  - position: Research Intern
-    company_name: Dearborn AI Research Center, University of Michigan-Dearborn
-    date_start: 2020-07-01
-    date_end: 2020-09-30
-    summary: |
-      Responsibilities included:
-      - Creating an automated system for generating refactoring commit messages.
-      - Using BERT embeddings and attention mechanisms to autonomously generate descriptive GitHub commit messages, assisting developers.
+#   - position: Research Intern
+#     company_name: Dearborn AI Research Center, University of Michigan-Dearborn
+#     date_start: 2020-07-01
+#     date_end: 2020-09-30
+#     summary: |
+#       Responsibilities included:
+#       - Creating an automated system for generating refactoring commit messages.
+#       - Using BERT embeddings and attention mechanisms to autonomously generate descriptive GitHub commit messages, assisting developers.
 
 # skills:
 #   - name: Programming Languages
