@@ -66,10 +66,10 @@ education:
     date_start: 2020-09-01
     date_end: 2021-06-30
 
-#   - area: Bachelor in Software Engineering
-#     institution: National Institute of Applied Science and Technology, Tunisia
-#     date_start: 2016-09-01
-#     date_end: 2021-06-30
+  - area: Bachelor in Software Engineering
+    institution: National Institute of Applied Science and Technology, Tunisia
+    date_start: 2016-09-01
+    date_end: 2021-06-30
 
 # work:
 #   - position: Graduate Research Assistant
