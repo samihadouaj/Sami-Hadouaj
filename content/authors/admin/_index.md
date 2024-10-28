@@ -61,10 +61,10 @@ education:
       - Text mining and information retrieval
       - Algorithms analysis and design
 
-#   - area: Master of Science in Computer Science
-#     institution: Tunisia Polytechnic School
-#     date_start: 2020-09-01
-#     date_end: 2021-06-30
+  - area: Master of Science in Computer Science
+    institution: Tunisia Polytechnic School
+    date_start: 2020-09-01
+    date_end: 2021-06-30
 
 #   - area: Bachelor in Software Engineering
 #     institution: National Institute of Applied Science and Technology, Tunisia
