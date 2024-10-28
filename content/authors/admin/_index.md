@@ -71,32 +71,32 @@ education:
     date_start: 2016-09-01
     date_end: 2021-06-30
 
-# work:
-#   - position: Graduate Research Assistant
-#     company_name: University of Michigan-Dearborn
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2022-01-01
-#     date_end: Present
-#     summary: |2-
-#       Responsibilities include:
-#       - Developing a unified framework merging probabilistic programming and databases for efficient statistical inference using MCMC sampling.
-#       - Building an optimized query engine in C++ leveraging Apache Arrow, JIT (ClangJIT), and parallel MCMC inference (OpenMP).
-#       - Enhancing parallelization, optimizing inference algorithms, and resolving race conditions, resulting in an 8x system performance increase.
-#       - Optimizing algorithms using performance monitoring tools, achieving a 50% performance increase with a collapsed variational inference algorithm.
-
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Research Assistant
+    company_name: University of Michigan
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-01-01
+    date_end: Present
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developing a unified framework merging probabilistic programming and databases for efficient statistical inference using MCMC sampling.
+      - Building an optimized query engine in C++ leveraging Apache Arrow, JIT (ClangJIT), and parallel MCMC inference (OpenMP).
+      - Enhancing parallelization, optimizing inference algorithms, and resolving race conditions, resulting in an 8x system performance increase.
+      - Optimizing algorithms using performance monitoring tools, achieving a 50% performance increase with a collapsed variational inference algorithm.
+
+# work:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #   - position: Software Engineering Intern
 #     company_name: Dearborn AI Research Center, University of Michigan-Dearborn
 #     date_start: 2021-02-01
