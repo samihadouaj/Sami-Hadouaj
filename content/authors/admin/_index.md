@@ -45,7 +45,7 @@ profiles:
     url: https://scholar.google.com/citations?user=yqkd6wkAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-3407-307X
-
+shadouaj@umich.edu
 interests:
   - Databases
   - Machine Learning
