@@ -94,26 +94,26 @@ work:
       - Integrating AI into software engineering to reduce developer overhead and enhance productivity.
       - Developing a chatbot to address GitHub and Jira issues, improving software quality metrics.
 
-#   - position: Research Intern
-#     company_name: Dearborn AI Research Center, University of Michigan-Dearborn
-#     date_start: 2020-07-01
-#     date_end: 2020-09-30
-#     summary: |
-#       Responsibilities included:
-#       - Creating an automated system for generating refactoring commit messages.
-#       - Using BERT embeddings and attention mechanisms to autonomously generate descriptive GitHub commit messages, assisting developers.
+  - position: Research Intern
+    company_name: Dearborn AI Research Center, University of Michigan-Dearborn
+    date_start: 2020-07-01
+    date_end: 2020-09-30
+    summary: |
+      Responsibilities included:
+      - Creating an automated system for generating refactoring commit messages.
+      - Using BERT embeddings and attention mechanisms to autonomously generate descriptive GitHub commit messages, assisting developers.
 
-# skills:
-#   - name: Programming Languages
-#     items:
-#       - name: C/C++
-#         percent: 90
-#       - name: Java
-#         percent: 80
-#       - name: Python
-#         percent: 90
-#       - name: SQL
-#         percent: 70
+skills:
+  - name: Programming Languages
+    items:
+      - name: C/C++
+        percent: 90
+      - name: Java
+        percent: 80
+      - name: Python
+        percent: 90
+      - name: SQL
+        percent: 70
 
 #   - name: Technologies
 #     items:
