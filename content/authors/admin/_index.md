@@ -139,7 +139,7 @@ skills:
 
 
 Publications:
-  - title: "StarfishDB: A Query Execution Engine For Relational Probabilistic Programming"
+  - name: "StarfishDB: A Query Execution Engine For Relational Probabilistic Programming"
     authors: "Ouael Ben Amara, Sami Hadouaj, Niccolo Meneghetti"
 #     conference: "SIGMOD 2024"
 #     url: "https://dl.acm.org/doi/pdf/10.1145/3654988"
