@@ -94,8 +94,8 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developing a unified framework merging probabilistic programming and databases for efficient statistical inference using MCMC sampling.
+      - Building an optimized query engine in C++ leveraging Apache Arrow, JIT (ClangJIT), and parallel MCMC inference (OpenMP).
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Software Engineering Intern
     company_name: Dearborn AI Research Center, University of Michigan-Dearborn
