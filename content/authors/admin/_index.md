@@ -87,10 +87,10 @@ education:
 
 work:
   - position: Graduate Research Assistant
-    company_name: GenCoin
+    company_name: University of Michigan
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
