@@ -151,16 +151,16 @@ publications:
     conference: "SIGMOD 2024"
     url: "https://dl.acm.org/doi/pdf/10.1145/3654988"
 
-talks:
-  - title: "StarfishDB Presentation"
-    event: "SIGMOD 2024 Conference"
-    location: "Santiago, Chile"
-    date: "June 2024"
+# talks:
+#   - title: "StarfishDB Presentation"
+#     event: "SIGMOD 2024 Conference"
+#     location: "Santiago, Chile"
+#     date: "June 2024"
 
-  - title: "Query Driven Inference in Probabilistic Databases"
-    event: "North East Database Day"
-    location: "Boston, MA"
-    date: "March 2023"
+#   - title: "Query Driven Inference in Probabilistic Databases"
+#     event: "North East Database Day"
+#     location: "Boston, MA"
+#     date: "March 2023"
 
 # certificates:
 #   - title: Machine Learning Specialization
