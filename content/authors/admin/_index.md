@@ -138,11 +138,11 @@ skills:
         percent: 75
 
 
-Publications:
-  - name: "StarfishDB: A Query Execution Engine For Relational Probabilistic Programming"
-    authors: "Ouael Ben Amara, Sami Hadouaj, Niccolo Meneghetti"
-#     conference: "SIGMOD 2024"
-#     url: "https://dl.acm.org/doi/pdf/10.1145/3654988"
+# Publications:
+#   - name: "StarfishDB: A Query Execution Engine For Relational Probabilistic Programming"
+#     authors: "Ouael Ben Amara, Sami Hadouaj, Niccolo Meneghetti"
+# #     conference: "SIGMOD 2024"
+# #     url: "https://dl.acm.org/doi/pdf/10.1145/3654988"
 
 languages:
   - name: English
@@ -165,12 +165,12 @@ languages:
 #     location: "Boston, MA"
 #     date: "March 2023"
 
-certificates:
-  - title: Machine Learning Specialization
-    platform: Coursera
+# certificates:
+#   - title: Machine Learning Specialization
+#     platform: Coursera
 
-  - title: Deep Learning Specialization
-    platform: Coursera
+#   - title: Deep Learning Specialization
+#     platform: Coursera
 
 ---
 
