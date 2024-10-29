@@ -13,8 +13,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    org_name: 'University of Michigan'
+    description: 'PhD candidate in Computer and Information Science. Working in Databases.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
