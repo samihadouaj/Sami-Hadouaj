@@ -115,27 +115,27 @@ skills:
       - name: SQL
         percent: 70
 
-#   - name: Technologies
-#     items:
-#       - name: OpenMP
-#         percent: 80
-#       - name: MPI
-#         percent: 70
-#       - name: Docker
-#         percent: 85
-#       - name: Git
-#         percent: 90
+  - name: Technologies
+    items:
+      - name: OpenMP
+        percent: 80
+      - name: MPI
+        percent: 70
+      - name: Docker
+        percent: 85
+      - name: Git
+        percent: 90
 
-#   - name: Libraries
-#     items:
-#       - name: Scikit-Learn
-#         percent: 85
-#       - name: NumPy
-#         percent: 80
-#       - name: Pandas
-#         percent: 80
-#       - name: Eigen C++
-#         percent: 75
+  - name: Libraries
+    items:
+      - name: Scikit-Learn
+        percent: 85
+      - name: NumPy
+        percent: 80
+      - name: Pandas
+        percent: 80
+      - name: Eigen C++
+        percent: 75
 
 # languages:
 #   - name: English
@@ -145,22 +145,22 @@ skills:
 #   - name: French
 #     percent: 90
 
-# publications:
-#   - title: "StarfishDB: A Query Execution Engine For Relational Probabilistic Programming"
-#     authors: "Ouael Ben Amara, Sami Hadouaj, Niccolo Meneghetti"
-#     conference: "SIGMOD 2024"
-#     url: "https://dl.acm.org/doi/pdf/10.1145/3654988"
+publications:
+  - title: "StarfishDB: A Query Execution Engine For Relational Probabilistic Programming"
+    authors: "Ouael Ben Amara, Sami Hadouaj, Niccolo Meneghetti"
+    conference: "SIGMOD 2024"
+    url: "https://dl.acm.org/doi/pdf/10.1145/3654988"
 
-# talks:
-#   - title: "StarfishDB Presentation"
-#     event: "SIGMOD 2024 Conference"
-#     location: "Santiago, Chile"
-#     date: "June 2024"
+talks:
+  - title: "StarfishDB Presentation"
+    event: "SIGMOD 2024 Conference"
+    location: "Santiago, Chile"
+    date: "June 2024"
 
-#   - title: "Query Driven Inference in Probabilistic Databases"
-#     event: "North East Database Day"
-#     location: "Boston, MA"
-#     date: "March 2023"
+  - title: "Query Driven Inference in Probabilistic Databases"
+    event: "North East Database Day"
+    location: "Boston, MA"
+    date: "March 2023"
 
 # certificates:
 #   - title: Machine Learning Specialization
