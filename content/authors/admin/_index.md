@@ -83,7 +83,7 @@ work:
       - Developing a unified framework merging probabilistic programming and databases for efficient statistical inference using MCMC sampling.
       - Building an optimized query engine in C++ leveraging Apache Arrow, JIT (ClangJIT), and parallel MCMC inference (OpenMP).
       - Enhancing parallelization, optimizing inference algorithms, and resolving race conditions, resulting in an 8x system performance increase.
-      - Optimizing algorithms using performance monitoring tools, achieving a 50% performance increase with a collapsed variational inference algorithm.
+     # - Optimizing algorithms using performance monitoring tools, achieving a 50% performance increase with a collapsed variational inference algorithm.
 
 # work:
 #   - position: Director of Cloud Infrastructure
