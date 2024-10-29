@@ -137,13 +137,13 @@ skills:
       - name: Eigen C++
         percent: 75
 
-# languages:
-#   - name: English
-#     percent: 100
-#   - name: Arabic
-#     percent: 100
-#   - name: French
-#     percent: 90
+languages:
+  - name: English
+    percent: 100
+  - name: Arabic
+    percent: 100
+  - name: French
+    percent: 90
 
 Publications:
   - title: "StarfishDB: A Query Execution Engine For Relational Probabilistic Programming"
